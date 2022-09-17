@@ -8,4 +8,4 @@
 3. enter 'git clone 網址' in CMD
 4. sync git with github
 5. 
-7
+6.
