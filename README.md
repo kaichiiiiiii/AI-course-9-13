@@ -7,3 +7,4 @@
 2. enter 'cd .\Desktop' in CMD
 3. enter 'git clone 網址' in CMD
 4. sync git with github
+5. 
